@@ -67,7 +67,7 @@ npm install
 Create a `.env` file in the backend directory:
 ```
 PORT=5000
-MONGODB_URI=mongodb://localhost:27017/pezesha_db
+MONGODB_URI=mongodb://localhost:27017/pezesha-technical-test
 
 MARVEL_PUBLIC_KEY=your_marvel_public_key
 MARVEL_PRIVATE_KEY=your_marvel_private_key
