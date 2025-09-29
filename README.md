@@ -158,13 +158,6 @@ The CSV upload feature:
 - Lazy loading for images
 - Responsive grid layout for optimal viewing on all devices
 
-## Testing
-
-Run tests with:
-```bash
-npm test
-```
-
 ## Known Issues
 
 - None at the moment
